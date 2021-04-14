@@ -161,8 +161,17 @@
          "tilewidth":32
         }, 
         {
+         "columns":2,
          "firstgid":145,
-         "source":"Percolateur.tsx"
+         "image":"Percolateur.png",
+         "imageheight":80,
+         "imagewidth":80,
+         "margin":0,
+         "name":"Percolateur",
+         "spacing":0,
+         "tilecount":4,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
